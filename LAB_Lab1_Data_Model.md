@@ -172,25 +172,16 @@ automatically creates relationships for Lookup columns.
 3.  Select **+ New record**.
 4.  Use the lookup icon to select existing Customer and Branch records.
 
-  -------------------------------------------------------------------------
-  Account Number       Customer     Branch     Account Type      Status
-  -------------------- ------------ ---------- ----------------- ----------
-  UAE-000001           Ahmed Al     Dubai Mall Savings           Active
-                       Mansoori     Branch                       
+# Customer Accounts
 
-  UAE-000002           Ahmed Al     Dubai Mall Current           Active
-                       Mansoori     Branch                       
+| Account Number | Customer Name     | Branch                | Account Type | Status   |
+| -------------- | ----------------- | --------------------- | ------------ | -------- |
+| UAE-000001     | Ahmed Al Mansoori | Dubai Mall Branch     | Savings      | Active   |
+| UAE-000002     | Ahmed Al Mansoori | Dubai Mall Branch     | Current      | Active   |
+| UAE-000003     | Fatima Al Suwaidi | Abu Dhabi Main Branch | Savings      | Active   |
+| UAE-000004     | Omar Al Kaabi     | Sharjah Branch        | Current      | Inactive |
+| UAE-000005     | Aisha Al Mazrouei | Dubai Mall Branch     | Savings      | Active   |
 
-  UAE-000003           Fatima Al    Abu Dhabi  Savings           Active
-                       Suwaidi      Main                         
-                                    Branch                       
-
-  UAE-000004           Omar Al      Sharjah    Current           Inactive
-                       Kaabi        Branch                       
-
-  UAE-000005           Aisha Al     Dubai Mall Savings           Active
-                       Mazrouei     Branch                       
-  -------------------------------------------------------------------------
 
 ## Expected Outcome
 
