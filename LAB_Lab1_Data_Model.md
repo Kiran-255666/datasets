@@ -155,19 +155,14 @@ automatically creates relationships for Lookup columns.
 2.  Select **Edit data**.
 3.  Select **+ New record**.
 4.  Enter the following records.
+ --------------------------------------------------------------------------------------------------------------------
+  | **Branch Name**      | **Branch Code** |  **City/Emirate** | **SWIFT Code** | **Manager Name**  | **Phone**    |
+  |----------------------|-----------------|-------------------|----------------|---------------   -|--------------|
+  |Dubai Mall Branch     |BR-001           |  Dubai            |  CEBUAEAD      | Khalid Hassan     | +97142001111 |
+  |Abu Dhabi Main Branch |BR-002           | Abu Dhabi         |  CEBUAEAD      | Mohammed Ali      | +97126221111 |
+  |Sharjah Branch        |BR-003           |  Sharjah          |  CEBUAEAD      | Noor Ahmed        |+97165441111  |
+  --------------------------------------------------------------------------------------------------------------------
 
-  ----------------------------------------------------------------------------------
-  Branch Name   Branch Code  City / Emirate SWIFT Code  Manager Name  Phone
-  ------------- ------------ -------------- ----------- ------------- --------------
-  Dubai Mall    BR-001       Dubai          CEBUAEAD    Khalid Hassan +97142001111
-  Branch                                                              
-
-  Abu Dhabi     BR-002       Abu Dhabi      CEBUAEAD    Mohammed Ali  +97126221111
-  Main Branch                                                         
-
-  Sharjah       BR-003       Sharjah        CEBUAEAD    Noor Ahmed    +97165441111
-  Branch                                                              
-  ----------------------------------------------------------------------------------
 
 ## Task 3 - Add Bank Account records
 
