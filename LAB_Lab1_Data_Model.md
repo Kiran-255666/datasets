@@ -85,10 +85,10 @@ Repeat the previous process.
 
 Repeat the previous process.
 
-| **Column Display Name** | **Data Type**          | **Additional Settings**                                        |
-|-------------------------|------------------------|----------------------------------------------------------------|
-| Branch Code             | Autonumber             | Prefix : BR-                                                   |
-| Manager Name            | Single line of text    |                                                                |
+| **Column Display Name** | **Data Type**          | 
+|-------------------------|------------------------|
+| Branch Code             | Autonumber             |
+| Manager Name            | Single line of text    |
 
 
 # Exercise 3 - Create the Bank Account table
